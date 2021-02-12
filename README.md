@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Felippe and I'm am looking for my first job and I look forward to college..
+
+- 🌱 I’m currently learning JAVA.
+- 📫 How to reach me: felippe.veloso15@gmail.com
+-->
 <!--
 **FelippeVelosoMarinho/FelippeVelosoMarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
