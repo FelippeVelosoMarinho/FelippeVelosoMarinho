@@ -15,6 +15,10 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 </p>  
 
+<p align="center">
+<a href="mailto:aquilasouza1004@gmail.com"><img src="https://img.shields.io/badge/-aquilasouza1004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
+</p>
+
 # Technologies ⚡ 
 These are some of the technologies and tools that I'm learning now:
 ## Design 🖍
