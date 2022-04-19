@@ -22,9 +22,20 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 # Technologies ⚡ 
 These are some of the technologies and tools that I'm learning now:
 ## Design 🖍
-![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}) ![image]({https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black})
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 ## Languages 👩‍💻
-![image]({https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white}) ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}) ![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}) ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}) ![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white}) ![image]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white})
-
-![bootstrap](https://user-images.githubusercontent.com/60450622/108610159-3d045880-73b2-11eb-934f-67ed1587b6a6.PNG)![java](https://user-images.githubusercontent.com/60450622/108610223-d469ab80-73b2-11eb-9ffd-739a8fefccd5.PNG)![css](https://user-images.githubusercontent.com/60450622/108610359-e1d36580-73b3-11eb-89f6-aa45a0dbb2d8.PNG)![git](https://user-images.githubusercontent.com/60450622/108610372-f879bc80-73b3-11eb-8f21-04c4ee5f1623.PNG)![github](https://user-images.githubusercontent.com/60450622/108610456-763dc800-73b4-11eb-8fb5-032fc1ef3a5a.PNG)![html5](https://user-images.githubusercontent.com/60450622/108610464-89e92e80-73b4-11eb-9986-727afa65a6c6.PNG)![intelij](https://user-images.githubusercontent.com/60450622/108610475-a2594900-73b4-11eb-8ecd-b6b748579d35.PNG)![js](https://user-images.githubusercontent.com/60450622/108610495-c9177f80-73b4-11eb-8e55-718714063a97.PNG)![VScode](https://user-images.githubusercontent.com/60450622/108610506-de8ca980-73b4-11eb-9f9d-eb69fc638279.PNG)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
