@@ -12,9 +12,11 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 <!--
 **FelippeVelosoMarinho/FelippeVelosoMarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-</div>  
+<p align="center">
+  <div align="center">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+  </div>  
+</p>
 
 # Tech Stack ⚡ 
 ## Design 🖍
