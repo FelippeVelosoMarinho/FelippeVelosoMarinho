@@ -15,10 +15,6 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&layout=compact&theme=algolia" style="max-width: 100%;"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
-    
-    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felippe-veloso-marinho-8266a01a0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fileppe_voleso_miranho/)
-
-    <a href="mailto:felippe.veloso15@gmail.com"><img src="https://img.shields.io/badge/-felippe.veloso15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>    
   </div>  
 </p>
 
