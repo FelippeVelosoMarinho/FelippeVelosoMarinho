@@ -16,7 +16,7 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 </p>  
 
 <p align="center">
-<a href="mailto:aquilasouza1004@gmail.com"><img src="https://img.shields.io/badge/-aquilasouza1004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
+<a href="mailto:felippe.veloso15@gmail.com"><img src="https://img.shields.io/badge/-felippe.veloso15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
 </p>
 
 # Technologies ⚡ 
