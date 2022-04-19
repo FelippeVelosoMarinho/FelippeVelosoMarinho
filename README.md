@@ -19,11 +19,6 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 </p>
 
 # Tech Stack ⚡ 
-## Design 🖍
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
-## Languages 👩‍💻
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,3 +32,8 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=adobe-AutoCAD)&nbsp;
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=adobe-SolidWorks)&nbsp;
+![Maya](https://img.shields.io/badge/-Maya-05122A?style=flat&logo=adobe-Maya)&nbsp;
