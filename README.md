@@ -14,6 +14,7 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 -->
 <p align="center">
   <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&layout=compact&theme=algolia" style="max-width: 100%;"/>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
   </div>  
 </p>
