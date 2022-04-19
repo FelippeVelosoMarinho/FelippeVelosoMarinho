@@ -1,5 +1,6 @@
 # Hi there 👋
-My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "Universidade Federal de Minas Gerais" and looking for my first job..
+My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "Universidade Federal de Minas Gerais" and looking for my first job 
+as a programmer.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felippe-veloso-marinho-8266a01a0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fileppe_voleso_miranho/)
 
