@@ -3,9 +3,10 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 
 <div align="center">
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felippe-veloso-marinho-8266a01a0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fileppe_voleso_miranho/) ![image]({https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white})
+ <a href="mailto:felippe.veloso15@gmail.com"><img src="https://img.shields.io/badge/-felippe.veloso15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
 </div>
 
-- 🌱 I’m currently learning C and SQL.
+- 🌱 I’m currently learning C++, Python and WORDPRESS.
 - 📫 How to reach me: felippe.veloso15@gmail.com
 -->
 <!--
@@ -15,12 +16,7 @@ My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 </div>  
 
-<div align="center">
-<a href="mailto:felippe.veloso15@gmail.com"><img src="https://img.shields.io/badge/-felippe.veloso15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
-</div>
-
-# Technologies ⚡ 
-These are some of the technologies and tools that I'm learning now:
+# Tech Stack ⚡ 
 ## Design 🖍
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
