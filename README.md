@@ -34,6 +34,6 @@ as a programmer.
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=adobe-AutoCAD)&nbsp;
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=adobe-SolidWorks)&nbsp;
-![Maya](https://img.shields.io/badge/-Maya-05122A?style=flat&logo=adobe-Maya)&nbsp;
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=Autodesk)&nbsp;
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=SolidWorks)&nbsp;
+![Maya](https://img.shields.io/badge/-Maya-05122A?style=flat&logo=Autodesk)&nbsp;
