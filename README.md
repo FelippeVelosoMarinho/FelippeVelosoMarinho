@@ -7,7 +7,6 @@ as a programmer.
   <div align="center">
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felippe-veloso-marinho-8266a01a0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fileppe_voleso_miranho/)
 </div>
-</a>
 </p>
   
 - 🌱 I’m currently learning C++, Python and WORDPRESS.
