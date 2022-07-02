@@ -1,5 +1,7 @@
 # Hi there 👋
+
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=FelippeVelosoMarinho.FelippeVelosoMarinho)&nbsp;
+
 My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "Universidade Federal de Minas Gerais" and looking for my first job 
 as a programmer.
 
