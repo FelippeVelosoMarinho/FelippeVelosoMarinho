@@ -8,6 +8,8 @@ as a programmer.
 - 📫 How to reach me--> 
 <a href="mailto:felippe.veloso15@gmail.com"><img src="https://img.shields.io/badge/-felippe.veloso15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
 
+ ### ⚙️ &nbsp;GitHub Analytics
+
 <!--
 **FelippeVelosoMarinho/FelippeVelosoMarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,6 +18,15 @@ as a programmer.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&layout=compact&theme=algolia" style="max-width: 100%;"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelippeVelosoMarinho&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
   </div>  
+</p>
+
+<p align="center">
+<a href="https://github.com/aquila1004">
+<div>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aquila1004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
+</div>
+</a>
 </p>
 
 # Tech Stack ⚡ 
