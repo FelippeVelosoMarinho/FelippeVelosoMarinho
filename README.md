@@ -2,11 +2,9 @@
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=FelippeVelosoMarinho.FelippeVelosoMarinho)&nbsp;
 
-My name is Felippe and I'm am Bachelor's Degree in Systems Engineering at UFMG "Universidade Federal de Minas Gerais" and looking for my first job 
-as a programmer.
-
-I'm apprentice in installation and repair of networks and computers at SENAI BH CETEL César Rodrigues and technology, programming and design enthusiast. Admire and like to propose creative solutions to a given problem and I try to know my difficulties in order to evolve. I try to contribute to society by acting directly in the development of new technologies and in the democratization of education.
-Currently studying Mechanical Design at SENAI BH CFP Américo Renê Giannetti and I am a member of the structures and manufacturing team in the AVANT - UFMG extension project.
+Graduating in Systems Engineering at UFMG, apprentice in network and computer installation and repair at SENAI BH CETEL César Rodrigues, apprentice Mechanical Design at SENAI BH CFP Américo Renê Giannetti and technology, programming and design enthusiast. 
+As a generalist, I try to follow the whole process of the projects in which I participate to help the team as much as possible. 
+Currently I am a student of the 4th period of Systems Engineering at UFMG, a member of the structures and fabrication team in the AVANT - UFMG extension project, an English tutor at CCAA - São Benedito, and a trainee at Ijunior.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felippe-veloso-marinho-8266a01a0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fileppe_voleso_miranho/)
   
