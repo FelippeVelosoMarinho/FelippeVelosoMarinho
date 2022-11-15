@@ -55,3 +55,4 @@ Currently I am a student of the 4th period of Systems Engineering at UFMG, a mem
 ![Maya](https://img.shields.io/badge/-Maya-05122A?style=flat&logo=Autodesk)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=vhdl)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescrip-05122A?style=flat&logo=Typescript)&nbsp;
