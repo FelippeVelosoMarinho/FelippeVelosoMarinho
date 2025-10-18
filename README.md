@@ -2,13 +2,13 @@
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=FelippeVelosoMarinho.FelippeVelosoMarinho)&nbsp;
 
-Graduating in Systems Engineering at UFMG, apprentice in network and computer installation and repair at SENAI BH CETEL César Rodrigues, apprentice Mechanical Design at SENAI BH CFP Américo Renê Giannetti and technology, programming and design enthusiast. 
-As a generalist, I try to follow the whole process of the projects in which I participate to help the team as much as possible. 
-Currently I am a student of the 4th period of Systems Engineering at UFMG, a member of the structures and fabrication team in the AVANT - UFMG extension project, an English tutor at CCAA - São Benedito, and a trainee at Ijunior.
+Graduating in Systems Engineering from UFMG, with experience in software development, technical leadership and project management. At iJunior UFMG, I worked as a software developer and frontend leader, implementing scalable architectures, integrating backends with external APIs and applying agile methodologies such as SCRUM. As CEO of iJunior, I led organizational strategies, established external partnerships and promoted initiatives to strengthen the company's culture and values.
+
+My experience also includes activities in mechanical design, such as 3D modeling and dimensional control, developed during my time as an apprentice. At VeRLab, I participated in the implementation and testing of computer vision algorithms and software modules. Currently, at Tarken, I contribute to the development of functionalities in the backend, focusing on structuring interactions with databases and efficient communication between systems.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felippe-veloso-marinho-8266a01a0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fileppe_voleso_miranho/)
   
-- 🌱 I’m currently studying C++, Front End, Database and ROS.
+- 🌱 I’m currently studying Typescript and Python.
 - 📫 How to reach me--> 
 <a href="mailto:felippe.veloso15@gmail.com"><img src="https://img.shields.io/badge/-felippe.veloso15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
 
