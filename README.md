@@ -2,9 +2,13 @@
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=FelippeVelosoMarinho.FelippeVelosoMarinho)&nbsp;
 
-Graduating in Systems Engineering from UFMG, with experience in software development, technical leadership and project management. At iJunior UFMG, I worked as a software developer and frontend leader, implementing scalable architectures, integrating backends with external APIs and applying agile methodologies such as SCRUM. As CEO of iJunior, I led organizational strategies, established external partnerships and promoted initiatives to strengthen the company's culture and values.
+Systems Engineering Student @ UFMG | Full-Stack Developer | AI 
 
-My experience also includes activities in mechanical design, such as 3D modeling and dimensional control, developed during my time as an apprentice. At VeRLab, I participated in the implementation and testing of computer vision algorithms and software modules. Currently, at Tarken, I contribute to the development of functionalities in the backend, focusing on structuring interactions with databases and efficient communication between systems.
+Graduating in Systems Engineering from UFMG, I am a software developer with a strong background in technical leadership and project management. At iJunior UFMG, I served as Frontend Leader and eventually CEO, where I was responsible for implementing scalable architectures in React and TypeScript, integrating backends with external APIs, and managing organizational strategies that bridged high-level engineering with social impact culture. My experience also spans from mechanical design and dimensional control to the implementation of computer vision algorithms at VeRLab, and backend optimization focusing on database efficiency during my time at Tarken.
+
+Currently, at Ciano.io, together with my team, I develop and design intelligent conversational solutions by building AI agents and RAG (Retrieval-Augmented Generation) pipelines that integrate with complex internal data sources. My work involves designing all-in-one chat frameworks for business, allowing systems to interact with data using natural language through multiple digital channels. Parallel to my professional work, I am a researcher at PAR Digital (UFMG), where I develop assistive technologies using Learning Analytics to monitor inclusion indicators and automate personalized pedagogical plans for students with disabilities.
+
+I specialize in a modern stack comprising React, Vite, FastAPI, and PostgreSQL, always focusing on building resilient systems that solve complex business and social challenges through disciplined engineering.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felippe-veloso-marinho-8266a01a0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fileppe_voleso_miranho/)
   
